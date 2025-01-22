@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\proyecto\Calificaciones\bin\Debug\net9.0\Calificaciones.exe
+C:\Users\MSI\Documents\proyecto\Calificaciones\bin\Debug\net9.0\Calificaciones.deps.json
+C:\Users\MSI\Documents\proyecto\Calificaciones\bin\Debug\net9.0\Calificaciones.runtimeconfig.json
+C:\Users\MSI\Documents\proyecto\Calificaciones\bin\Debug\net9.0\Calificaciones.dll
+C:\Users\MSI\Documents\proyecto\Calificaciones\bin\Debug\net9.0\Calificaciones.pdb
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.AssemblyInfo.cs
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.dll
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\refint\Calificaciones.dll
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.pdb
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\Calificaciones.genruntimeconfig.cache
+C:\Users\MSI\Documents\proyecto\Calificaciones\obj\Debug\net9.0\ref\Calificaciones.dll

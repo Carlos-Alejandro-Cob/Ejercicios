@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\proyecto\Cero\bin\Debug\net9.0\Cero.exe
+C:\Users\MSI\Documents\proyecto\Cero\bin\Debug\net9.0\Cero.deps.json
+C:\Users\MSI\Documents\proyecto\Cero\bin\Debug\net9.0\Cero.runtimeconfig.json
+C:\Users\MSI\Documents\proyecto\Cero\bin\Debug\net9.0\Cero.dll
+C:\Users\MSI\Documents\proyecto\Cero\bin\Debug\net9.0\Cero.pdb
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.AssemblyInfo.cs
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.dll
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\refint\Cero.dll
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.pdb
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\Cero.genruntimeconfig.cache
+C:\Users\MSI\Documents\proyecto\Cero\obj\Debug\net9.0\ref\Cero.dll
