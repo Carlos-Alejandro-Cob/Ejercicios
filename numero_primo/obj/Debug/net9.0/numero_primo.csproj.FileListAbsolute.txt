@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\proyecto\numero_primo\bin\Debug\net9.0\numero_primo.exe
+C:\Users\MSI\Documents\proyecto\numero_primo\bin\Debug\net9.0\numero_primo.deps.json
+C:\Users\MSI\Documents\proyecto\numero_primo\bin\Debug\net9.0\numero_primo.runtimeconfig.json
+C:\Users\MSI\Documents\proyecto\numero_primo\bin\Debug\net9.0\numero_primo.dll
+C:\Users\MSI\Documents\proyecto\numero_primo\bin\Debug\net9.0\numero_primo.pdb
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.AssemblyInfo.cs
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.dll
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\refint\numero_primo.dll
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.pdb
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\numero_primo.genruntimeconfig.cache
+C:\Users\MSI\Documents\proyecto\numero_primo\obj\Debug\net9.0\ref\numero_primo.dll
