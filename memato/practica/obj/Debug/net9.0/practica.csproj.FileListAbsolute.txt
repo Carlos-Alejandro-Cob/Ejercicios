@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\memato\practica\bin\Debug\net9.0\practica.exe
+C:\Users\MSI\Desktop\memato\practica\bin\Debug\net9.0\practica.deps.json
+C:\Users\MSI\Desktop\memato\practica\bin\Debug\net9.0\practica.runtimeconfig.json
+C:\Users\MSI\Desktop\memato\practica\bin\Debug\net9.0\practica.dll
+C:\Users\MSI\Desktop\memato\practica\bin\Debug\net9.0\practica.pdb
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.AssemblyInfo.cs
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.dll
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\refint\practica.dll
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.pdb
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\practica.genruntimeconfig.cache
+C:\Users\MSI\Desktop\memato\practica\obj\Debug\net9.0\ref\practica.dll
