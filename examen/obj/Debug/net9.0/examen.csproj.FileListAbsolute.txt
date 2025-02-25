@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.AssemblyInfo.cs
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\memato\examen\bin\Debug\net9.0\examen.exe
+C:\Users\MSI\Desktop\memato\examen\bin\Debug\net9.0\examen.deps.json
+C:\Users\MSI\Desktop\memato\examen\bin\Debug\net9.0\examen.runtimeconfig.json
+C:\Users\MSI\Desktop\memato\examen\bin\Debug\net9.0\examen.dll
+C:\Users\MSI\Desktop\memato\examen\bin\Debug\net9.0\examen.pdb
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.dll
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\refint\examen.dll
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.pdb
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\examen.genruntimeconfig.cache
+C:\Users\MSI\Desktop\memato\examen\obj\Debug\net9.0\ref\examen.dll
